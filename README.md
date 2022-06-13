@@ -4,7 +4,7 @@
 If you get error like this:
 
 <p>
-PS C:\Users\soham\Documents\fim> .\fim.ps1
+PS C:\Users\$(name)\Documents\fim> .\fim.ps1 <br>
 .\fim.ps1 : File C:\Users\$(name)\Documents\fim\fim.ps1 cannot be loaded because running scripts is disabled on this <br>
 system. For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170. <br>
 At line:1 char:1<br>
